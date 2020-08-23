@@ -1,7 +1,9 @@
 
 # Favicon Paket für Cassandra [www.theorem.systems]
 
-Der folgenden Code ist im Kopfbereich von Cassandra untergebracht.
+```Bei einer derart hohen Anzahl an unterschiedlichen Icons und Symbolen ist es oft schwierig den Überblick zu behalten. Genau zu wissen wie die optimale Konfiguration für das geplannte Projekt gefordert wird ist selbst in Zeiten von "google-ich-mal-schnell" komplett nervend.```
+
+# Der folgenden Code ist im Kopfbereich von Cassandra untergebracht.
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://secure-control-cluster.github.io/realfavicongenerator/cassandra/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://secure-control-cluster.github.io/realfavicongenerator/cassandra/favicon-32x32.png">
