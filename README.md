@@ -1,9 +1,14 @@
-
-# Favicon Paket für Cassandra [www.theorem.systems]
-
 ```Bei einer derart hohen Anzahl an unterschiedlichen Icons und Symbolen ist es oft schwierig den Überblick zu behalten. Genau zu wissen wie die optimale Konfiguration für das geplannte Projekt gefordert wird ist selbst in Zeiten von "google-ich-mal-schnell" komplett nervend.```
 
-# Der folgenden Code ist im Kopfbereich von Cassandra untergebracht.
+# Dieses Favicon-Paket wurde für Cassandra erstellt [www.theorem.systems]
+
+## Installationsanweisungen
+
+  Extrahieren Sie dieses Paket in https://domain.tld/path-to/cassandra/. 
+  Beispielsweise sollten Sie auf eine Datei mit dem Namen "Favicon" zugreifen können https:/domain.tld/path-to/cassandra/favicon.ico.
+
+
+### Der folgenden Code ist im Kopfbereich von Cassandra untergebracht.
 
 <link rel="apple-touch-icon" sizes="180x180" href="https://secure-control-cluster.github.io/realfavicongenerator/cassandra/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://secure-control-cluster.github.io/realfavicongenerator/cassandra/favicon-32x32.png">
@@ -19,13 +24,6 @@
 <meta name="msapplication-TileImage" content="https://secure-control-cluster.github.io/realfavicongenerator/cassandra/mstile-144x144.png">
 <meta name="msapplication-config" content="https://secure-control-cluster.github.io/realfavicongenerator/cassandra/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
-
-
-## Installationsanweisungen
-
-  Extrahieren Sie dieses Paket in https://domain.tld/path-to/cassandra/. 
-  Beispielsweise sollten Sie auf eine Datei mit dem Namen "Favicon" zugreifen können https:/domain.tld/path-to/cassandra/favicon.ico.
-
 
 ### Dieses Paket wurde mit RealFaviconGenerator v0.16 generiert
 
