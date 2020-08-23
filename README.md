@@ -21,10 +21,10 @@ Der folgenden Code ist im Kopfbereich von Cassandra untergebracht.
 
 ## Installationsanweisungen
 
-    Extrahieren Sie dieses Paket in https://secure-control-cluster.github.io/realfavicongenerator/cassandra/. 
-    Beispielsweise sollten Sie auf eine Datei mit dem Namen zugreifen können https://secure-control-cluster.github.io/realfavicongenerator/cassandra/favicon.ico.
+  Extrahieren Sie dieses Paket in https://domain.tld/path-to/cassandra/. 
+  Beispielsweise sollten Sie auf eine Datei mit dem Namen "Favicon" zugreifen können https:/domain.tld/path-to/cassandra/favicon.ico.
 
 
 ### Dieses Paket wurde mit RealFaviconGenerator v0.16 generiert
 
-! Optional - Überprüfen Sie Ihr Favicon mit einem Favicon Checker
+! Optional - Überprüfen Sie Ihr Favicon mit einem Favicon Checker [favicon checker](https://realfavicongenerator.net/favicon_checker)
