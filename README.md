@@ -1,4 +1,4 @@
-[www.theorem.systems 
+[ www.theorem.systems ]
 
 ```Bei einer derart hohen Anzahl an unterschiedlichen Icons und Symbolen ist es oft schwierig den Überblick zu behalten. Genau zu wissen wie die optimale Konfiguration für das geplannte Projekt gefordert wird ist selbst in Zeiten von "google-ich-mal-schnell" komplett nervend.```
 
